@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KaiHuettenmueller
-- 👀 I’m interested in e-commerce, projectmanagement, analytics, drone piloting, cryptocurrencies, sports, gaming,... 
-- 🌱 I’m currently learning php, magento 2
+- 👀 I’m interested in e-commerce, projectmanagement, AI-driven productivity boost ,analytics, cryptocurrencies, sports, gaming,... 
+- 🌱 I’m currently learning cursor ide, v0 by Vercel, replit, bolt.new, lindy.ai
 - 📫 How to reach me email: kai@huettenmueller.de
 
 <!---
